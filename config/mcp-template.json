@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "obsidian": {
+      "command": "$PYTHON_PATH",
+      "args": [
+        "$OBSIDIAN_SERVER"
+      ],
+      "env": {
+        "VAULT_PATH": "$VAULT_PATH"
+      }
+    },
+    "bilibili": {
+      "command": "$PYTHON_PATH",
+      "args": [
+        "$BILIBILI_SERVER"
+      ]
+    }
+  }
+}

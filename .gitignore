@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.venv/
+venv/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Claude
+.claude/projects/
+.claude/sessions/
+.claude/tasks/
+.claude/backups/
+.claude/file-history/
+.claude/scheduled_tasks*
+.claude/telemetry/
+.claude/plugins/
+.claude/marketplaces/
+.claude/ide/
+.claude/claude.json
+.claude/config.json
+
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/themes/
+
+# Env
+.env
+*.local.json
