@@ -1,4 +1,4 @@
-# 知识库工作流 (Knowledge Valt Workflow)
+# 知识库工作流 (Knowledge Vault Workflow)
 
 基于 **Karpathy LLM Wiki 方法论** 的个人知识库系统。
 利用 Claude Code 作为 AI 引擎，通过 MCP 服务端连接 Obsidian 知识库，
